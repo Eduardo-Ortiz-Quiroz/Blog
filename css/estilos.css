@@ -6,6 +6,24 @@ body
     font-family: 'Courier New', Courier, monospace;
 }
 
+#cabecera
+{
+    background-color: #313131;
+    color: brown; 
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;  
+    font-size: 35px;
+    box-shadow: 5px 5px 15px 5px #d32424;
+}
+
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
 #container
 {
     width: 70%;
