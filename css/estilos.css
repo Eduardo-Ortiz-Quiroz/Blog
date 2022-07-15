@@ -3,13 +3,13 @@ body
     background-color: black;
     color: brown;
     text-align: center;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Arial, Helvetica, sans-serif
 }
 
 #cabecera
 {
     background-color: #313131;
-    color: brown; 
+    color: #bb4545; 
     font-weight: bold;
     margin: 0;
     padding: 0.5em;  
@@ -22,6 +22,7 @@ body
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
+    color: #bb9b45;
 }
 
 #container
